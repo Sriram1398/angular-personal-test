@@ -8,6 +8,9 @@ export const routes: Routes = [
   },
   {
     path:'login',component:Login
+  },
+  {
+    path:'app',component:App
   }
 
 ];
